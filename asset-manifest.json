@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NYX/static/css/main.686842f3.chunk.css",
+    "main.js": "/NYX/static/js/main.5a62a3a3.chunk.js",
+    "main.js.map": "/NYX/static/js/main.5a62a3a3.chunk.js.map",
+    "runtime-main.js": "/NYX/static/js/runtime-main.d93ac097.js",
+    "runtime-main.js.map": "/NYX/static/js/runtime-main.d93ac097.js.map",
+    "static/css/2.89f067aa.chunk.css": "/NYX/static/css/2.89f067aa.chunk.css",
+    "static/js/2.2ab49a7e.chunk.js": "/NYX/static/js/2.2ab49a7e.chunk.js",
+    "static/js/2.2ab49a7e.chunk.js.map": "/NYX/static/js/2.2ab49a7e.chunk.js.map",
+    "index.html": "/NYX/index.html",
+    "precache-manifest.28f482c7ff158ddde8943cfeaee6d2cb.js": "/NYX/precache-manifest.28f482c7ff158ddde8943cfeaee6d2cb.js",
+    "service-worker.js": "/NYX/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/NYX/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.686842f3.chunk.css.map": "/NYX/static/css/main.686842f3.chunk.css.map",
+    "static/js/2.2ab49a7e.chunk.js.LICENSE.txt": "/NYX/static/js/2.2ab49a7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d93ac097.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.2ab49a7e.chunk.js",
+    "static/css/main.686842f3.chunk.css",
+    "static/js/main.5a62a3a3.chunk.js"
+  ]
+}
